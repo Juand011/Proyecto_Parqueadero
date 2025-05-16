@@ -1,5 +1,6 @@
 package Controlador;
 
+import javax.swing.JFrame;
 import model.*;
 import Service.ParqueaderoService;
 import javax.swing.*;
